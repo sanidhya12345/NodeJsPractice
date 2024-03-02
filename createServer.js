@@ -2,7 +2,7 @@ var http=require('http');
 var host='127.0.0.1';
 var port=3000;
 
-var server=http.createServer((response,request)=>{
+var server=http.createServer((rrequest,response)=>{
     response.writeHead(200,{"Content-Type":"text/plain"});
     console.log("server is working");
     response.end("sever working success");
