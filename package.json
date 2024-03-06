@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "calcsanidhya": "^1.0.0",
     "sqlite3": "^5.1.7"
   }
 }
