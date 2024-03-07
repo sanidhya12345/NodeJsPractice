@@ -1,0 +1,9 @@
+
+Challenge Time
+
+1.Create a folder named challenge.
+2.Create a file named bio.txt and data into it.
+3.Add more data into the end of the existing file.
+4.Read the data without getting the buffer data at first.
+5.Rename the file name to mybio.txt.
+
